@@ -1,4 +1,4 @@
 # Case-for-LCR-T4
 Simple Case for LCR-T4 Component Tester
 
-Download: https://drive.google.com/drive/folders/1q0IgQIYGx2EZ7VxAv0uUCCiR0hoHJkHX?usp=sharing
+Download: https://github.com/MiguelRenato/Case-for-LCR-T4/tree/main/stl
