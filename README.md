@@ -3,6 +3,6 @@ Simple Case for LCR-T4 Component Tester
 
 Image:
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://raw.githubusercontent.com/MiguelRenato/Case-for-LCR-T4/main/Case-for-LCR-T4.png = 50%)
 
 Download: https://github.com/MiguelRenato/Case-for-LCR-T4/tree/main/stl
